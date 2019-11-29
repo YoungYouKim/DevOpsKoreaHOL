@@ -1,3 +1,6 @@
+# 드뎌 3주간의 교육이 끝이네.....하나도 모르겠네
+
+
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
